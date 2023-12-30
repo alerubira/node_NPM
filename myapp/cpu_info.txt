@@ -1,0 +1,24 @@
+[
+  {
+    "model": "Pentium(R) Dual-Core CPU       T4500  @ 2.30GHz",
+    "speed": 2294,
+    "times": {
+      "user": 30135015,
+      "nice": 0,
+      "sys": 17297859,
+      "idle": 163756171,
+      "irq": 1703062
+    }
+  },
+  {
+    "model": "Pentium(R) Dual-Core CPU       T4500  @ 2.30GHz",
+    "speed": 2294,
+    "times": {
+      "user": 32537546,
+      "nice": 0,
+      "sys": 13434375,
+      "idle": 165216953,
+      "irq": 255250
+    }
+  }
+]
